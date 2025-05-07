@@ -1,4 +1,4 @@
-# COMP5212
+# COMP5212 (Machine Learning)
 Just keeping record of my works done. 
 
 LaTeX is used for homeworks.
